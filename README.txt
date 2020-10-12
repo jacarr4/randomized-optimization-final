@@ -1,4 +1,4 @@
-My code can be accessed at: git@github.com/jacarr4/randomized-optimization-final.git
+My code can be accessed at: git@github.com:jacarr4/randomized-optimization-final.git
 There are several required python packages: numpy, pandas, scikit-learn, and mlrose_hiive. There may be others.
 
 There are several scripts of interest.
