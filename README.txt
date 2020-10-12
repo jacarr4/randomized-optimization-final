@@ -1,7 +1,5 @@
-My code can be accessed at: https://github.gatech.edu/jcarr61/randomized-optimization-final.git
-There are several required python packages. I have included a virtual environment containing them all:
-* . mp2/bin/activate
-This is not required if your environment contains the packages already.
+My code can be accessed at: git@github.com/jacarr4/randomized-optimization-final.git
+There are several required python packages: numpy, pandas, scikit-learn, and mlrose_hiive. There may be others.
 
 There are several scripts of interest.
 To generate hyperparameters for the four RO problems:
